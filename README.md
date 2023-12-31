@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a conversational chatbot focused on mental health using LangChain, HuggingFace, LLama2, FAISS, and Streamlit. The system is designed to provide responses based on a combination of pre-existing documents, embeddings, and a language model.
+This project implements a conversational chatbot focused on mental health using LangChain, HuggingFace, LLama2, FAISS, and Streamlit. The system is designed to provide responses based on a PDF document, embeddings, and a language model.
 
 ## Libraries Used
 
