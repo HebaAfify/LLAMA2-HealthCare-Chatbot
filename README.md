@@ -28,7 +28,7 @@ This project implements a conversational chatbot focused on mental health using 
 2. **Run the Application:**
    - Execute the provided code in a Python environment.
      ```bash
-     streamlit run your_script.py
+     streamlit run app.py
      ```
    - Open the provided Streamlit URL in your web browser.
 
