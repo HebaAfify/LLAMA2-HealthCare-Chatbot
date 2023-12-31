@@ -1,0 +1,15 @@
+protobuf
+langchain
+torch
+accelerate
+#bitsandbytes
+pypdf
+transformers
+ctransformers
+sentence_transformers
+streamlit
+streamlit_chat
+faiss-cpu
+altair
+tiktoken
+huggingface-hub
